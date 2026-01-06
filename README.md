@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Medina, a **Fullstack developer** from São Paulo, focused on building reliable APIs and meaningful web applications.  <br>Always thinking end to end.</p>
+<p align="left">Hi! I'm Medina, a Fullstack developer from São Paulo, focused on building reliable APIs and meaningful web applications.  <br>Always thinking end to end.</p>
 
 ###
 
